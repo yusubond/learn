@@ -23,9 +23,10 @@
 ## 技术人员的SDK
 
 - 陈皓《程序员技术练级攻略》https://coolshell.cn/articles/4990.html
-- 
 
-### Git工作流
+
+
+## Git工作流
 
 
 
@@ -50,7 +51,7 @@
 
 - 陈皓《三个事和三个问题》https://coolshell.cn/articles/6142.html
 
-## 陈皓的极客专栏《左耳听风》
+### 陈皓的极客专栏《左耳听风》
 
 - 陈皓《如何成为一个大家愿意追随的Leader》https://time.geekbang.org/column/article/297
 - 陈皓《git工作流，你该怎么选？》https://time.geekbang.org/column/article/2440
