@@ -23,6 +23,7 @@
 ## 技术人员的SDK
 
 - 陈皓《程序员技术练级攻略》https://coolshell.cn/articles/4990.html
+- Cheat sheet 备忘录，常见的代码写法，算法等
 
 
 
@@ -36,7 +37,7 @@
 
 画张图，说明一下：人生不是斜坡式的往上走，而是像台阶一样，阶梯式往上走。
 
-- 
+- 陈皓经历https://lightnine.github.io/%E5%B7%A6%E8%80%B3%E6%9C%B5%E8%80%97%E5%AD%90-%E9%99%88%E7%9A%93%E7%BB%8F%E5%8E%86-%E8%BD%AC.html
 - 陈皓《技术人员的发展之路》https://coolshell.cn/articles/17583.html
 - 陈皓《优秀程序员的十个习惯》https://coolshell.cn/articles/222.html
 - 陈皓《程序员需要具备的基本能力》https://coolshell.cn/articles/428.html
@@ -57,4 +58,32 @@
 - 陈皓《git工作流，你该怎么选？》https://time.geekbang.org/column/article/2440
 
 ## 杂文思考
+
+
+
+## 文件树
+
+```bash
+learn
+├── 01workHealthy
+│   └──（一级推荐）使用电脑工作的指南.pdf
+├── MoneyWiz.md
+├── README.md
+├── Untitled.md
+├── database_sql.md
+├── desktop.md
+├── firstJob.md
+├── git_workflow.md
+├── how2getRich.md
+├── images
+│   ├── 93c512c2bef1c5cb.png
+│   ├── image-20210310140910589.png
+│   └── image-20210310141256422.png
+├── learn.md
+├── linkedin_code_review.md
+├── p4_cheat.md
+├── software_macbook.md
+├── work_report_monthly.md
+└── work_review_weekly.md
+```
 
