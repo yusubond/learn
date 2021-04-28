@@ -12,6 +12,8 @@
 
 - [程序员工作桌面](desktop.md)
 
+- [mac 必备软件](macbook-software.md)
+
 
 
 ## 生产力工具
